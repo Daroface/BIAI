@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>postitnotes_00003.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/postitnotes_00003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>postit_notes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>742</xmin>
+			<ymin>127</ymin>
+			<xmax>1347</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

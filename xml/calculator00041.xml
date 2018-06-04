@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>calculator00041.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/calculator00041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calculator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>155</ymin>
+			<xmax>2801</xmax>
+			<ymax>1877</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>scissors00025.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/scissors00025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>537</ymin>
+			<xmax>2123</xmax>
+			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+</annotation>

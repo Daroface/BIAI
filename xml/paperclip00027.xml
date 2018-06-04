@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>paperclip00027.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/paperclip00027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper_clip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>577</ymin>
+			<xmax>3018</xmax>
+			<ymax>2095</ymax>
+		</bndbox>
+	</object>
+</annotation>

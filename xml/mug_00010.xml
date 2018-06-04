@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>mug_00010.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/mug_00010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2489</width>
+		<height>2488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>300</ymin>
+			<xmax>2021</xmax>
+			<ymax>2329</ymax>
+		</bndbox>
+	</object>
+</annotation>
