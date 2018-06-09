@@ -1,0 +1,49 @@
+item {
+  id: 1
+  name: 'calculator'
+}
+
+item {
+  id: 2
+  name: 'lamp'
+}
+
+item {
+  id: 3
+  name: 'laptop'
+}
+
+item {
+  id: 4
+  name: 'mug'
+}
+
+item {
+  id: 5
+  name: 'notebook'
+}
+
+item {
+  id: 6
+  name: 'paperclip'
+}
+
+item {
+  id: 7
+  name: 'pen'
+}
+
+item {
+  id: 8
+  name: 'postitnote'
+}
+
+item {
+  id: 9
+  name: 'ruler'
+}
+
+item {
+  id: 10
+  name: 'scissors'
+}
