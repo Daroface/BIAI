@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>laptop00055.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/laptop00055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>31</ymin>
+			<xmax>2540</xmax>
+			<ymax>1834</ymax>
+		</bndbox>
+	</object>
+</annotation>

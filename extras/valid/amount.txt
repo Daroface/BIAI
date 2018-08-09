@@ -1,0 +1,8 @@
+scissors: 49 x
+calculator: 41 X 
+lamp: 17 X
+laptop: 3 X
+mug: 30 X
+notebook: 0 X
+pen: 12 X 
+ruler: 38 - 14 = 24 X

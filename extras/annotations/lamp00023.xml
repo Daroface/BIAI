@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>lamp00023.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/lamp00023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>42</ymin>
+			<xmax>2332</xmax>
+			<ymax>2899</ymax>
+		</bndbox>
+	</object>
+</annotation>

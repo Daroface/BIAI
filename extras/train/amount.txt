@@ -1,0 +1,8 @@
+scissors: 182 -> 18 x
+calculator: 164 -> 36 -24 = 12 X
+lamp: 165 -> 35 X
+laptop: 134 -> 66 - 59 = 7 X
+mug: 163 -> 37 - 23 = 14 X
+notebook: 156 -> 44 X
+pen: 180 -> 20 X
+ruler: 188 -> 12 X

@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>Images</folder>
+	<filename>ruler00040.jpg</filename>
+	<path>/home/daroface/Obrazy/BIAI Dataset/Images/ruler00040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
