@@ -237,11 +237,11 @@ def main():
     #####################################
     #####################################
     #Ustaw sieżkę u siebie lokalnie do repo###
-    file_path = r"sciezka/do/repo/extras/"
+    file_path = r"/home/daroface/BIAI/extras/"
 
-    train_path = r"sciezka/do/repo/images/"
-    valid_path = r"sciezka/do/repo/images/"
-    test_path = r"sciezka/do/repo/images/"
+    train_path = r"/home/daroface/BIAI/images/"
+    valid_path = r"/home/daroface/BIAI/images/"
+    test_path = r"/home/daroface/BIAI/images/"
 
     oid_train_bboxes_file = file_path + r"oid/train-annotations-bbox.csv"
     oid_train_labels_file = file_path + r"oid/labels/train-annotations-human-imagelabels-boxable.csv"
