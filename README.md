@@ -1,2 +1,19 @@
-# BIAI project
-Download images using script create_new_csv.py from extras/scripts. In this script insert full path to the repo in main() TODO: file_path, train_path, valid_path and test_path. When all images were downloaded copy foldersL images, data, training and eval to tensorflow/model/research/objec detection/. After it start following step 3 from: https://becominghuman.ai/tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector-ed2594afcf73
+Tutorials:
+https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
+
+https://becominghuman.ai/tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector-ed2594afcf73
+
+Dataset:
+
+https://storage.googleapis.com/openimages/web/download.html
+
+http://hemanthdv.org/OfficeHome-Dataset/
+
+Google Cloud Platform:
+
+https://cloud.google.com/
+
+Tensorflow repository:
+
+https://github.com/tensorflow/models
+
